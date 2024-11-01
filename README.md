@@ -1,5 +1,5 @@
 
-![Blue and White Bold Business LinkedIn Article Cover Image (3)](https://github.com/user-attachments/assets/4d6a7e79-802e-4259-9a42-e75ed863895f)
+
 
 <hr>
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">,I'm Victor Sanchez</h1>
