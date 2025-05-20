@@ -7,7 +7,7 @@
 <p align="center">
 <a href="https://www.linkedin.com/in/-hugosanchez2022/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="aksia" height="30" width="40" /></a>
 <a href = "mailto: victordev1986gmail.com"><img align="center" src="https://simpleicons.org/icons/gmail.svg" height="30" width="40" /></a>
-<a href="https://victorsanchez.vercel.app/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/internetexplorer.svg" alt="website" height="30" width="40" /></a>
+<a href="https://victorsanchez.vercel.app/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webstorm/webstorm-original.svg" alt="website" height="30" width="40" /></a>
 </p>
 </p>
 <p align="center">
@@ -16,14 +16,14 @@
 </p>
 <hr/>
 <br>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=30&pause=1000&color=38C2FF&width=435&lines=Algode+mi" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=30&pause=1000&color=38C2FF&width=435&lines=Algo+de+mi" alt="Typing SVG" /></a>
 <br>
 
-✔ Soy tecnologo en desarrollo de software <br>
-✔ Estudiante de ingenieria de sistemas <br>
+✔ Soy tecnologo en **Analisis y desarrollo de sistemas de infromacion**<br>
+✔ Estudiante de **ingenieria de sistemas** <br>
 ✔ Actualmente estoy aprendiendo **Laravel**<br>
 ✔ Busco colaborar en cualquier **contribución de código abierto**<br>
-✔ Dato curioso: uso chat gpt,copilot y windsurf para poyrame al desarrollar,¡y por supuesto entiendo todo!
+✔ **Dato curioso:** uso chat GPT,copilot y windsurf para apoyarme en el desarrollo,¡y por supuesto entiendo todo!
 *<br><br><br>
 
 <hr>
@@ -48,7 +48,7 @@
   <img height="80" src="https://github.com/user-attachments/assets/6e40a3f3-0e7a-42d6-b389-f5603b0b863c"> 
   <img height="80" src="https://github.com/user-attachments/assets/bcee37b4-e063-4e98-b27c-87ba4801caf3">
   <img height="80" src="https://github.com/user-attachments/assets/5cc815f1-42ef-4fac-9e4a-2b6023807b8c">
-  <img height="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" alt="Laravel Logo">
+  <img height="80" src="https://github.com/user-attachments/assets/6e8e1a3b-7e1d-4e2e-9e2a-2e8b2e8b2e8b">
   <img height="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL Logo">
 
 <hr>
@@ -56,7 +56,7 @@
 <br>
 <p align="left">
   <img height="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker Logo">
-  <img height="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub Logo">
+  <img height="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git Logo">
   <img height="80" src="https://github.com/user-attachments/assets/be569546-ed3c-42cf-939b-58ce938872b2"> 
   <img height="80" src="https://github.com/user-attachments/assets/06f2f83c-bd31-4848-a898-9f404de616be">
   <img height="80" src="https://github.com/user-attachments/assets/495829c6-ae2a-4867-9cb4-04e1cfaf1df5">
