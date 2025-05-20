@@ -16,11 +16,11 @@
 </p>
 <hr/>
 <br>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=30&pause=1000&color=38C2FF&width=435&lines=Algo de+mi" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=30&pause=1000&color=38C2FF&width=435&lines=Algode+mi" alt="Typing SVG" /></a>
 <br>
 
-✔ Soy tecnologo en desarrollo de software <a href="https://www.sena.edu.co/es-co/Paginas/default.aspx">  <br>
-✔ Estudiante de ingenieria de sistemas <a href="https://cun.edu.co/"> <br>
+✔ Soy tecnologo en desarrollo de software <br>
+✔ Estudiante de ingenieria de sistemas <br>
 ✔ Actualmente estoy aprendiendo **Laravel**<br>
 ✔ Busco colaborar en cualquier **contribución de código abierto**<br>
 ✔ Dato curioso: uso chat gpt,copilot y windsurf para poyrame al desarrollar,¡y por supuesto entiendo todo!
@@ -28,7 +28,7 @@
 
 <hr>
 <br>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=30&pause=1000&color=38C2FF&width=435&lines=Hbilidades+blandas" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=30&pause=1000&color=38C2FF&width=435&lines=Habilidades+blandas" alt="Typing SVG" /></a>
 <br>
 
 ✔ <b>Comunicación efectiva</b>:Capacidad para expresar ideas y colaborar con el equipo.<br>
@@ -48,17 +48,15 @@
   <img height="80" src="https://github.com/user-attachments/assets/6e40a3f3-0e7a-42d6-b389-f5603b0b863c"> 
   <img height="80" src="https://github.com/user-attachments/assets/bcee37b4-e063-4e98-b27c-87ba4801caf3">
   <img height="80" src="https://github.com/user-attachments/assets/5cc815f1-42ef-4fac-9e4a-2b6023807b8c">
-  <img height="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" alt="Laravel Logo">
-  <img height="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL Logo">
-
-
+  <img height="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" alt="Laravel Logo">
+  <img height="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL Logo">
 
 <hr>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=30&pause=1000&color=38C2FF&width=435&lines=Otras herramientas" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=30&pause=1000&color=38C2FF&width=435&lines=Otras+herramientas" alt="Typing SVG" /></a>
 <br>
 <p align="left">
-  <img height="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker Logo">
-  <img height="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub Logo">
+  <img height="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker Logo">
+  <img height="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub Logo">
   <img height="80" src="https://github.com/user-attachments/assets/be569546-ed3c-42cf-939b-58ce938872b2"> 
   <img height="80" src="https://github.com/user-attachments/assets/06f2f83c-bd31-4848-a898-9f404de616be">
   <img height="80" src="https://github.com/user-attachments/assets/495829c6-ae2a-4867-9cb4-04e1cfaf1df5">
