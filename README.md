@@ -1,6 +1,6 @@
 <hr>
 <h1 align="center">Hola <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, soy Víctor Sánchez</h1>
-<h3 align="center">Desarrollador web | Desarrollador de software |</h3>
+<h3 align="center">Ingeniero de sistemas | Desarrollador de software |</h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/-hugosanchez2022/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="aksia" height="30" width="40" /></a>
 <a href = "mailto:victordev1986@gmail.com"><img align="center" src="https://simpleicons.org/icons/gmail.svg" height="30" width="40" /></a>
@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-<em>Desarrollador de software con amplia experiencia en la creación de sitios web modernos, funcionales y adaptados a distintas tecnologías. Desarrollo aplicaciones web completas, desde el diseño del front-end hasta el back-end y las bases de datos.</em>
+<em>Estudiante de Ingeniería de Sistemas (10º semestre) y desarrollador de software junior enfocado en el desarrollo web fullstack. Experiencia en proyectos académicos y personales con tecnologías modernas como React, PHP, MySQL y TailwindCSS. Interesado en aportar valor en equipos dinámicos aplicando buenas prácticas, metodologías ágiles y herramientas de cloud e inteligencia artificial..</em>
   <br>  
 </p>
 <hr/>
@@ -17,7 +17,7 @@
 <br>
 
 ✔ Soy tecnólogo en <b>Análisis y desarrollo de sistemas de información</b><br>
-✔ Estudiante de <b>ingeniería de sistemas</b><br>
+✔ Estudiante de <b>ingeniería de sistemas (10 semestre)</b><br>
 ✔ Actualmente estoy aprendiendo <b>Laravel</b><br>
 ✔ Busco colaborar en cualquier <b>contribución de código abierto</b><br>
 ✔ <b>Dato curioso:</b> uso ChatGPT, Copilot y Windsurf para apoyarme en el desarrollo, ¡y por supuesto entiendo todo!
